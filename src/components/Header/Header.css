@@ -1,0 +1,10 @@
+.active {
+  padding-top: 1px;
+  padding-bottom: 5px;
+
+  background: linear-gradient(to left, #002d74, #ff3c00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
